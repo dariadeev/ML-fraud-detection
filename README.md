@@ -1,3 +1,4 @@
+
 # Summary
 ## Who It Benefits:
 This fraud detection algorithm is designed to benefit financial institutions, e-commerce platforms, and payment processors handling large transaction volumes. It is particularly valuable for organizations seeking to minimize financial losses due to fraudulent transactions while reducing the operational burden of investigating false positives. Stakeholders such as fraud analysts, risk management teams, and business owners will directly benefit from its implementation.
