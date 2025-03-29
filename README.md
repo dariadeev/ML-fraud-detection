@@ -1,3 +1,5 @@
+Full file attached to the project main page.
+
 # Project Overview: Fraud Detection System
 ## Introduction
 A fraud transaction is an unauthorized or deceptive financial activity, such as using stolen credit card details, identity theft, or falsified payments, intended to gain money or goods illegally. These transactions often appear as outliers compared to legitimate ones, exhibiting unusual patterns like high amounts, odd locations, or rapid frequency.
